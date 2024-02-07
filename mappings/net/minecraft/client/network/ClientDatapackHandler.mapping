@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_9247 net/minecraft/client/network/ClientDatapackHandler
+	FIELD field_49124 resourcePackManager Lnet/minecraft/class_3283;
+	FIELD field_49125 availableDatapacks Ljava/util/Map;
